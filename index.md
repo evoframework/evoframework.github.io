@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Evo Framework unity3d
 
-You can use the [editor on GitHub](https://github.com/evoframework/evoframework.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![EvoFramework](https://avatars.githubusercontent.com/u/104525268?s=400&u=e477c223fc98678b0ea0125610891568435a7509&v=4) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Installing from a Git URL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://docs.unity3d.com/Manual/upm-ui-giturl.html
 
-```markdown
-Syntax highlighted code block
+* Click the add  button in the status bar.
+The options for adding packages appear.
 
-# Header 1
-## Header 2
-### Header 3
+* Select Add package from git URL from the add menu. A text box and an Add button appear.
 
-- Bulleted
-- List
+* Enter the Git URL 
+https://github.com/evoframework/unity3d_evo_framework.git
 
-1. Numbered
-2. List
+* Click Add
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Wiki:
+https://github.com/evoframework/unity3d_evo_framework/wiki
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Documentation:
+* evoframework.github.io
+https://github.com/evoframework/evoframework.github.io
+* html
+https://github.com/evoframework/evoframework.github.io/html/
+* latex:
+ https://github.com/evoframework/unity3d_evo_framework/tree/main/Doc/latex
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evoframework/evoframework.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## License:
+Attribution-NonCommercial-ShareAlike 4.0 International
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://github.com/evoframework/unity3d_evo_framework/blob/main/LICENSE
