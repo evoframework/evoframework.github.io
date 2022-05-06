@@ -20,3 +20,4 @@ https://github.com/evoframework/unity3d_evo_framework/wiki
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 https://github.com/evoframework/unity3d_evo_framework/blob/main/LICENSE
+
