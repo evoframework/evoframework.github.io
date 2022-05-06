@@ -23,12 +23,8 @@ https://github.com/evoframework/unity3d_evo_framework/wiki
 
 
 ## Documentation:
-* evoframework.github.io
-https://github.com/evoframework/evoframework.github.io
-* html
-https://github.com/evoframework/evoframework.github.io/html/
-* latex:
- https://github.com/evoframework/unity3d_evo_framework/tree/main/Doc/latex
+* evo framework
+https://evoframework.github.io/doc/html/
 
 ## License:
 Attribution-NonCommercial-ShareAlike 4.0 International
